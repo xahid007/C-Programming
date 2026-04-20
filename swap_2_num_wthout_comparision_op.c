@@ -1,4 +1,4 @@
-// swap numbers without using comparisoin operator
+// swap numbers without using comparison operator
 #include <stdio.h>
 
 int main() 
